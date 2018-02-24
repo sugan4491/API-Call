@@ -18,6 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER"></category>
             </intent-filter>
         </activity>
+        <activity android:name=".MyActivity"/>
+        <activity android:name=".CustomListViewActivity"/>
+        <activity android:name=".ListViewActivity"/>
     </application>
 
 </manifest>
